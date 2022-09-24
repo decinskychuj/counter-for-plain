@@ -23,11 +23,3 @@ This image shows the code from Blocks since the last commit in the main release.
 This image may take a few minutes to update.
 
 ![Rendered preview of Blocks](https://github.com/lightnickcz/counter-for-plain/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for searching, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
-
-Translated with www.DeepL.com/Translator (free version)
